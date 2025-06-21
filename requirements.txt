@@ -1,0 +1,45 @@
+fastapi
+uvicorn[standard]
+requests
+pandas
+sqlalchemy
+psycopg2-binary
+scikit-learn
+xgboost
+joblib
+python-dotenv
+openai
+
+# Performance and caching
+redis
+aioredis
+asyncio-throttle
+
+# Monitoring and logging
+prometheus-client
+structlog
+sentry-sdk[fastapi]
+
+# Testing
+pytest
+pytest-asyncio
+pytest-cov
+httpx
+
+# Data validation and processing
+pydantic[email]
+numpy
+scipy
+
+# Development tools
+black
+flake8
+pre-commit
+
+# Additional ML libraries
+lightgbm
+catboost
+optuna
+
+# Database migrations
+alembic
