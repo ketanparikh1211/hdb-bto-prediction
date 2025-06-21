@@ -1,5 +1,21 @@
 # HDB BTO Recommendation & Price Prediction System
 
+## 📸 System Screenshots
+
+### Dashboard Overview
+![Dashboard](images/dashboard.png)
+
+### BTO Recommendations
+![BTO Recommendations](images/BTO_reco.png)
+
+### Price Predictor
+![Price Predictor](images/price-predictor.png)
+
+### Town Analysis
+![Town Analysis](images/town_analysis.png)
+
+---
+
 A comprehensive AI-powered system that combines traditional machine learning with Large Language Models (LLMs) to analyze and predict HDB resale flat prices across Singapore, providing intelligent BTO estate recommendations and market insights.
 
 ## 🎯 Project Overview
